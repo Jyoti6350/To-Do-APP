@@ -1,16 +1,22 @@
-# To-Do App
+# 📝 To-Do App
 
-This is a simple To-Do App built using HTML, CSS, and JavaScript.
+A simple and responsive To-Do application to manage daily tasks efficiently.
 
-## Features
+## 🚀 Features
 - Add tasks
 - Delete tasks
 - Mark tasks as completed
 
-## Technologies Used
+## 🛠️ Technologies Used
 - HTML
 - CSS
 - JavaScript
 
-## Author
+## 📸 Screenshot
+(Add your project screenshot here)
+
+## 🔗 Live Demo
+(Add your live project link here after deployment)
+
+## 👩‍💻 Author
 Jyoti Kumari
