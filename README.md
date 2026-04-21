@@ -16,9 +16,10 @@ A simple and responsive To-Do application to manage daily tasks efficiently.
 (Add your project screenshot here)
 
 ## 🔗 Live Demo
-(Add your live project link here after deployment)
+ https://jyoti6350.github.io/To-Do-APP/
+
 
 ## 👩‍💻 Author
 Jyoti Kumari
 
-[Live Demo](https://jyoti6350.github.io/To-Do-APP/)
+
