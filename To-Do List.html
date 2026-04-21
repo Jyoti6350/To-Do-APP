@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>To-Do App</title>
+    <style>
+      body {
+        font-family:Arial;
+        text-align:center;
+        margin-top:50px;
+      }
+
+      input {
+        padding: 10px;
+        width: 200px;
+      }
+
+      button {
+        padding: 10px;
+        margin-left: 5px;
+        cursor: pointer;
+      }
+
+      li {
+        margin-top: 10px;
+        list-style: none;
+      }
+    </style>
+</head>
+
+<script src="script.js"></script>
+<body>
+  <h2>My To-Do List</h2>  
+  <input type="text" id="taskInput" placeholder="Enter task">
+  <button onclick="addTask()">Add</button>
+  <ul id="list"></ul>
+
+</body>
+</html>
